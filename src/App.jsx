@@ -1,5 +1,5 @@
 
-export default function PriyanshiMiniWebsite() {
+export default function CollegeMiniWebsite() {
   const revealSection = (id) => {
     const el = document.getElementById(id)
     if (el) el.classList.remove('hidden')
