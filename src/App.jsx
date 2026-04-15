@@ -26,7 +26,7 @@ export default function PriyanshiMiniWebsite() {
       <section className="min-h-screen flex items-center justify-center px-6 relative z-10">
         <div className="max-w-4xl w-full bg-white/80 backdrop-blur-xl rounded-[2rem] shadow-2xl border border-pink-200 p-10 text-center">
           <p className="text-sm tracking-[0.3em] uppercase text-pink-500 mb-3">A Special gesture from my side</p>
-          <h1 className="text-6xl font-bold text-pink-600 mb-4">For Priyanshi 💙</h1>
+          <h1 className="text-6xl font-bold text-pink-600 mb-4">For Unknown Person 💙</h1>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto leading-8">
             A small message for you.
           </p>
@@ -48,7 +48,7 @@ export default function PriyanshiMiniWebsite() {
               <p>Dear Priyanshi,</p>
               <p>
                 I hope you are doing well. There is something that I have been waiting to share with you for quite some time.
-                I wanted to tell you this during our internal exam, but you were busy with company work and meetings.
+                I wanted to tell you this during our exam.
               </p>
               <p>
                 Over the days, I have come to admire you more than I can explain. Your smile, your nature,
@@ -93,7 +93,7 @@ export default function PriyanshiMiniWebsite() {
             According to you
           </button>
 
-          <p className="text-6xl mt-8">I know I am stupid 🥹💙✨</p>
+          <p className="text-4xl mt-6"> Good Byee 🥹💙✨</p>
         </div>
       </section>
     </div>
