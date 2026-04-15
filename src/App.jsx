@@ -1,3 +1,4 @@
+
 export default function PriyanshiMiniWebsite() {
   const revealSection = (id: string) => {
     const el = document.getElementById(id)
