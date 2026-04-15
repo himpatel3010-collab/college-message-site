@@ -1,10 +1,10 @@
 
 export default function PriyanshiMiniWebsite() {
-  const revealSection = (id: string) => {
+  const revealSection = (id) => {
     const el = document.getElementById(id)
     if (el) el.classList.remove('hidden')
 
-    const music = document.getElementById('bg-music') as HTMLAudioElement | null
+    const music = document.getElementById('bg-music') 
     if (music) music.play().catch(() => {})
   }
 
