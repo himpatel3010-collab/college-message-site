@@ -26,7 +26,7 @@ export default function PriyanshiMiniWebsite() {
       <section className="min-h-screen flex items-center justify-center px-6 relative z-10">
         <div className="max-w-4xl w-full bg-white/80 backdrop-blur-xl rounded-[2rem] shadow-2xl border border-pink-200 p-10 text-center">
           <p className="text-sm tracking-[0.3em] uppercase text-pink-500 mb-3">A Special gesture from my side</p>
-          <h1 className="text-6xl font-bold text-pink-600 mb-4">For Unknown Person 💙</h1>
+          <h1 className="text-6xl font-bold text-pink-600 mb-4">For My College mates💙</h1>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto leading-8">
             A small message for you.
           </p>
@@ -47,23 +47,20 @@ export default function PriyanshiMiniWebsite() {
             <div className="space-y-4 text-lg leading-8 text-gray-700">
               <p>Dear unknown person,</p>
               <p>
-                I hope you are doing well. There is something that I have been waiting to share with you for quite some time.
+                I hope you all are doing well. There is something that I have been waiting to share with you for quite some time.
                 I wanted to tell you this during our exam.
               </p>
               <p>
-                Over the days, I have come to admire you more than I can explain. Your smile, your nature,
-                the way you carry yourself and the non-argumnetal answer is what make you different from others that leave a special impression on me.
+                Over the days, I have come to admire you more than I can explain.
               </p>
               <p>
-                Whenever I talk to you, my day feels better.
+                Whenever I talk with you guys, my day feels better and all m stress go off.
               </p>
               <p>
-                To be honest, I do not know whether this is a feeling or just an attraction,
-                but I truly wanted to be honest with you and kissi ke sath roj roj batte karoge to attraction hogi na i think that is what happen with me.
+                Its was a journey full of enjoyable.
               </p>
               <p>
-                I want you to know what i fell.
-                i will always respect you and value our friendship.
+                i will always respect you gyus and value our friendship.
               </p>
               <p className="text-right font-semibold text-pink-600 pt-4">
                 — From someone who wants to talk with you.
@@ -88,7 +85,6 @@ export default function PriyanshiMiniWebsite() {
             I hope this message won't impact our friendship.
             This is not a proposal message, I just wanted to honestly convey what I feel.
           </p>
-
           <button className="mt-8 px-6 py-3 rounded-xl bg-pink-500 text-white hover:scale-105 transition-all">
             According to you
           </button>
