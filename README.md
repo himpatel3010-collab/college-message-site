@@ -1,1 +1,1 @@
-# priyanshi-message-site
+# College-message-site
