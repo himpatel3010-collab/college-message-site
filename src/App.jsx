@@ -94,8 +94,8 @@ export default function CollegeMiniWebsite() {
             All the fun activities or trip that we have made that will remain memorable for me.
           </p>
           <p className="mt-8 px-6 py-3 rounded-xl bg-pink-500 text-white hover:scale-105 transition-all">
-            MBA journey Ends here..>
-          
+            MBA journey Ends here..
+          </p>  
 
           <p className="text-4xl mt-6"> Good Byee 🥹💙✨</p>
         </div>
