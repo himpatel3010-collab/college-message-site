@@ -108,7 +108,7 @@ export default function CollegeMiniWebsite() {
           />
           <p className="mt-3 text-gray-700 text-sm leading-6">
             Two days trip to Valsad and Daman has a special space in my heart.
-          <\p>
+          </p>
         </div>
          
           <img
