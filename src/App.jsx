@@ -1,6 +1,6 @@
 
 import groupPhoto from './1776324411996.jpg'
-import lastPhoto1 from './1776340037592.jpg' 
+import lastPhoto1 from './1776355815139.jpg' 
 import lastPhoto2 from './1776340218765.jpg' 
 import lastPhoto3 from './1776342946669.jpg'
 export default function CollegeMiniWebsite() {
@@ -107,7 +107,7 @@ export default function CollegeMiniWebsite() {
             className="rounded-2xl shadow-xl w-full h-64 object-cover"
           />
           <p className="mt-3 text-gray-700 text-sm leading-6">
-            A one day car trip to sarangpur will always be special. The vlog that we have made the enjoyment that we have done in the car is what make the trip special.
+            The day when we all go out to watch the movie for the first time together and it was the starting of our friendship.
           </p>
         </div>
         <div>
