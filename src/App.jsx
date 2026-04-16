@@ -1,4 +1,5 @@
 
+import groupPhoto from './assets/college-photo.jpg'
 export default function CollegeMiniWebsite() {
   const revealSection = (id) => {
     const el = document.getElementById(id)
@@ -32,10 +33,10 @@ export default function CollegeMiniWebsite() {
           </p>
           
           <img 
-            src="https://images.unsplash.com/photo-1517841905240-472988babdf9" 
-            alt="Special memory" 
-            className="w-full max-w-md mx-auto rounded-3xl shadow-xl mt-4" 
-          />
+            src={groupPhoto} 
+            alt="Our college memory" 
+            className="w-full max-w-2xl mx-auto mt-8 rounded-3xl shadow-2xl border border-pink-200" 
+            />
 
           <button
             onClick={() => revealSection('message-section')}
