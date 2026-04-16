@@ -1,8 +1,15 @@
 
 import groupPhoto from './1776324411996.jpg'
-import lastPhoto1 from './1776355815139.jpg' 
-import lastPhoto2 from './1776340218765.jpg' 
-import lastPhoto3 from './1776342946669.jpg'
+import lastPhoto1 from './1776355815139.jpg'
+import lastphoto2 from './1776355943274.jpg'
+import lastPhoto3 from './1776356112702.jpg' 
+import lastPhoto4 from './1776356134880.jpg'
+import lastphoto5 from './1776356055286.jpg'
+import lastphoto6 from './1776356188201.jpg'
+import lastphoto7 from './1776356217059.jpg'
+import lastphoto8 from './1776340218765.jpg'
+import lastphoto9 from './1776340037592.jpg'
+
 export default function CollegeMiniWebsite() {
   const revealSection = (id) => {
     const el = document.getElementById(id)
@@ -117,7 +124,7 @@ export default function CollegeMiniWebsite() {
             className="rounded-2xl shadow-xl w-full h-64 object-cover"
            />
           <p className="mt-3 text-gray-700 text-sm leading-6">
-            By seeing this photo i remember the cute and funny dance of vasu,The food that we have eaten in the marriage was too goo specially the modify pizza with ketav and teasing tithi to eat the single slide of pizza.
+            The night when concert with the friend became a club party.
           </p>
           </div>
 
@@ -128,10 +135,76 @@ export default function CollegeMiniWebsite() {
             className="rounded-2xl shadow-xl w-full h-64 object-cover"
           />
           <p className="mt-3 text-gray-700 text-sm leading-6">
-            Two days trip to Valsad and Daman has a special space in my heart.The aee GJ 23 word by vasu will be the forever special moment for all of us.
+            The day when vasu though to became an face of india just like the one who is face of charusat.
           </p>
         </div> 
 
+        <div>
+          <img
+            src={lastPhoto4}
+            alt="College memory 4"
+            className="rounded-2xl shadow-xl w-full h-64 object-cover"
+          />
+          <p className="mt-3 text-gray-700 text-sm leading-6">
+            Satvik is looking his carres where the amount of investment is less and the return is very good.
+          </p>
+        </div> 
+
+        <div>
+          <img
+            src={lastPhoto5}
+            alt="College memory 5"
+            className="rounded-2xl shadow-xl w-full h-64 object-cover"
+          />
+          <p className="mt-3 text-gray-700 text-sm leading-6">
+            Jeel receive his one of the best birthday gift that he like the most #Stingggggg.
+          </p>
+        </div> 
+
+        <div>
+          <img
+            src={lastPhoto6}
+            alt="College memory 6"
+            className="rounded-2xl shadow-xl w-full h-64 object-cover"
+          />
+          <p className="mt-3 text-gray-700 text-sm leading-6">
+            It was not just an event. it was an activity that helps us to turn our friendship into family. it was the most happiest 4 days just like an trip.
+          </p>
+        </div> 
+        
+      <div>
+          <img
+            src={lastPhoto7}
+            alt="College memory 7"
+            className="rounded-2xl shadow-xl w-full h-64 object-cover"
+          />
+          <p className="mt-3 text-gray-700 text-sm leading-6">
+            A day when preet father tech us how real wealth look like.
+          </p>
+        </div>
+
+        <div>
+          <img
+            src={lastPhoto8}
+            alt="College memory 8"
+            className="rounded-2xl shadow-xl w-full h-64 object-cover"
+          />
+          <p className="mt-3 text-gray-700 text-sm leading-6">
+            The day when pizza meant to tease tithi instead of eating that.
+          </p>
+        </div>
+
+        <div>
+          <img
+            src={lastPhoto9}
+            alt="College memory 9"
+            className="rounded-2xl shadow-xl w-full h-64 object-cover"
+          />
+          <p className="mt-3 text-gray-700 text-sm leading-6">
+            Trip to sarangpur was a fun, that masti in car, the vlog was the best parth of that trip that will remember for the long time.
+          </p>
+        </div>
+        
       </div>  
 
           <p className="text-4xl mt-6"> Good Byee 🥹💙✨</p>
