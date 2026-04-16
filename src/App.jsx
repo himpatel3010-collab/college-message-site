@@ -99,12 +99,17 @@ export default function CollegeMiniWebsite() {
           <p className="mt-8 px-6 py-3 rounded-xl bg-pink-500 text-white hover:scale-105 transition-all">
             MBA journey Ends here..
           </p> 
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-8">
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-8">
+        <div>
           <img
             src={lastPhoto1}
             alt="College memory 1"
             className="rounded-2xl shadow-xl w-full h-64 object-cover"
           />
+          <p className="mt-3 text-gray-700 text-sm leading-6">
+            Two days trip to Valsad and Daman has a special space in my heart.
+          <\p>
+        </div>
          
           <img
             src={lastPhoto2}
