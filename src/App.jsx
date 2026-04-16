@@ -1,5 +1,5 @@
 
-import groupPhoto from './assets/college-photo.jpg'
+import groupPhoto from './1776324411996.jpg'
 export default function CollegeMiniWebsite() {
   const revealSection = (id) => {
     const el = document.getElementById(id)
