@@ -9,7 +9,12 @@ import lastPhoto7 from './1776356217059.jpg'
 import lastPhoto8 from './1776340218765.jpg'
 import lastPhoto9 from './1776340037592.jpg'
 import lastPhoto10 from './1776400483619.jpg'
-import lastPhoto11 from './1776401041705.jpg'
+import lastPhoto11 from './newgrp.jpg'
+import lastPhoto12 from './chocklate.jpg'
+import lastPhoto13 from './concert.jpg'
+import lastPhoto14 from './blackday.jpg'
+import lastPhoto15 from './3idots.jpg'
+
 import video1 from './Snapchat-1070160169.mp4'
 import video2 from './Snapchat-1454945637.mp4'
 import video3 from './Snapchat-814612826.mp4'
@@ -227,7 +232,51 @@ export default function CollegeMiniWebsite() {
             className="rounded-2xl shadow-xl w-full h-64 object-cover"
           />
           <p className="mt-3 text-gray-700 text-sm leading-6">
-            I hope even after the MBA we all might be in a touch with each others and stay connect through video calls.
+            First college event of us together.
+          </p>
+        </div>
+
+        <div>
+          <img
+            src={lastPhoto12}
+            alt="College memory 12"
+            className="rounded-2xl shadow-xl w-full h-64 object-cover"
+          />
+          <p className="mt-3 text-gray-700 text-sm leading-6">
+            A time when ketav use to do clean shave🤦‍♂️.
+          </p>
+        </div>
+
+        <div>
+          <img
+            src={lastPhoto13}
+            alt="College memory 13"
+            className="rounded-2xl shadow-xl w-full h-64 object-cover"
+          />
+          <p className="mt-3 text-gray-700 text-sm leading-6">
+            The only concert when all of us where there.
+          </p>
+        </div>
+
+        <div>
+          <img
+            src={lastPhoto14}
+            alt="College memory 14"
+            className="rounded-2xl shadow-xl w-full h-64 object-cover"
+          />
+          <p className="mt-3 text-gray-700 text-sm leading-6">
+            The day when boys became men in black for the day.
+          </p>
+        </div>
+
+        <div>
+          <img
+            src={lastPhoto15}
+            alt="College memory 15"
+            className="rounded-2xl shadow-xl w-full h-64 object-cover"
+          />
+          <p className="mt-3 text-gray-700 text-sm leading-6">
+            The End of the chapter all assignments were completed just before the presentation. college life was just like 3 idoits but here i found many idiots in my grp and i enjoyed my college life with these idoits.
           </p>
         </div>
 
