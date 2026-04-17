@@ -5,8 +5,8 @@ import lastPhoto3 from './1776356112702.jpg'
 import lastPhoto4 from './1776356134880.jpg'
 import lastPhoto5 from './1776356055286.jpg'
 import lastPhoto6 from './1776358827101.jpg'
-import lastPhoto7 from './1776356217059.jpg'
-import lastPhoto8 from './1776425223804.jpg'
+import lastPhoto7 from './1776425223804.jpg'
+import lastPhoto8 from './1776356217059.jpg'
 import lastPhoto9 from './1776340218765.jpg'
 import lastPhoto10 from './1776340037592.jpg'
 import lastPhoto11 from './1776400483619.jpg'
@@ -289,7 +289,7 @@ export default function CollegeMiniWebsite() {
             className="rounded-2xl shadow-xl w-full h-64 object-cover"
           />
           <p className="mt-3 text-gray-700 text-sm leading-6">
-            The End of the chapter all assignments were completed just before the presentation. college life was just like 3 idoits but here i found many idiots in my grp and i enjoyed my college life with these idoits.
+            The End of the chapter. all assignments were completed just before the presentation. college life was like 3 idoits but here i found many idiots in my grp and i enjoyed my college life with these idoits.
           </p>
         </div>
 
