@@ -24,17 +24,12 @@ export default function CollegeMiniWebsite() {
     const el = document.getElementById(id)
     if (el) el.classList.remove('hidden')
 
-    const music = document.getElementById('bg-music') 
-    if (music) music.play().catch(() => {})
+    
   }
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-rose-100 via-pink-50 to-purple-100 relative overflow-hidden">
-      <audio
-        id="bg-music"
-        loop
-        src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
-      />
+      
 
       <div className="absolute inset-0 opacity-30 pointer-events-none">
         <div className="absolute top-10 left-10 text-5xl animate-bounce">💖</div>
