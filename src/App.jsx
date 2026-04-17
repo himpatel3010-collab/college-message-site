@@ -10,6 +10,15 @@ import lastPhoto8 from './1776340218765.jpg'
 import lastPhoto9 from './1776340037592.jpg'
 import lastPhoto10 from './1776400483619.jpg'
 import lastPhoto11 from './1776401041705.jpg'
+import video from './Snapchat-1070160169.mp4'
+import video from './Snapchat-1454945637.mp4'
+import video from './Snapchat-814612826.mp4'
+import video from './Snapchat-846536604.mp4'
+import video from './Snapchat-865556087.mp4'
+import video from './VID-20260309-WA0013.mp4'
+import video from './VN20250917_174152.mp4'
+import video from './Snapchat-1655678465.mp4'
+
 export default function CollegeMiniWebsite() {
   const revealSection = (id) => {
     const el = document.getElementById(id)
@@ -114,7 +123,7 @@ export default function CollegeMiniWebsite() {
             className="rounded-2xl shadow-xl w-full h-64 object-cover"
           />
           <p className="mt-3 text-gray-700 text-sm leading-6">
-            The day when we all go out to watch the movie for the first time together and it was the starting of our friendship.
+            The day when we all go out to watch the movie for the first time together and it was the beginning of our friendship.
           </p>
         </div>
         <div>
@@ -146,7 +155,7 @@ export default function CollegeMiniWebsite() {
             className="rounded-2xl shadow-xl w-full h-64 object-cover"
           />
           <p className="mt-3 text-gray-700 text-sm leading-6">
-            Satvik is looking his carres where the amount of investment is less and the return is very good.
+            Satvik thought this might br the best carrer option with low amount of investment and high return values.
           </p>
         </div> 
 
@@ -157,7 +166,7 @@ export default function CollegeMiniWebsite() {
             className="rounded-2xl shadow-xl w-full h-64 object-cover"
           />
           <p className="mt-3 text-gray-700 text-sm leading-6">
-            Jeel receive his one of the best birthday gift that he like the most #Stingggggg.
+            Jeel receive his life's best birthday gift that he like the most. #Stingggggg.
           </p>
         </div> 
 
@@ -168,7 +177,7 @@ export default function CollegeMiniWebsite() {
             className="rounded-2xl shadow-xl w-full h-64 object-cover"
           />
           <p className="mt-3 text-gray-700 text-sm leading-6">
-            It was not just an event. it was an activity that helps us to turn our friendship into family. it was the most happiest 4 days just like an trip.
+            It was not just an event. it was a activity that helps us to turn our friendship into family. it was the most happiest 4 days just like an trip.
           </p>
         </div> 
         
@@ -179,7 +188,7 @@ export default function CollegeMiniWebsite() {
             className="rounded-2xl shadow-xl w-full h-64 object-cover"
           />
           <p className="mt-3 text-gray-700 text-sm leading-6">
-            A day when preet father tech us how real wealth look like.
+            A day when preet grandfather tech us how real wealth look like.
           </p>
         </div>
 
@@ -226,6 +235,19 @@ export default function CollegeMiniWebsite() {
             I hope even after the MBA we all might be in a touch with each others and stay connect through video calls.
           </p>
         </div>
+
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-10">
+
+          <video src={video1} controls className="rounded-2xl shadow-xl w-full" />
+          <video src={video2} controls className="rounded-2xl shadow-xl w-full" />
+          <video src={video3} controls className="rounded-2xl shadow-xl w-full" />
+          <video src={video4} controls className="rounded-2xl shadow-xl w-full" />
+          <video src={video5} controls className="rounded-2xl shadow-xl w-full" />
+          <video src={video6} controls className="rounded-2xl shadow-xl w-full" />
+          <video src={video7} controls className="rounded-2xl shadow-xl w-full" />
+          <video src={video8} controls className="rounded-2xl shadow-xl w-full" />
+
+      </div>
         
       </div>  
 
