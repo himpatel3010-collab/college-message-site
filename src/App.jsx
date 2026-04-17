@@ -327,7 +327,6 @@ export default function CollegeMiniWebsite() {
           <p className="mt-5 text-center text-xl font-semibold text-pink-550">
             "Vidai of tithi from the college😂." 
         </p>
-          </p>
           <video src={video9} controls className="rounded-2xl shadow-xl w-full" />
           <p className="mt-5 text-center text-xl font-semibold text-pink-550">
             "Samaj party jindaa baad." 
