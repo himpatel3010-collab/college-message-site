@@ -6,14 +6,15 @@ import lastPhoto4 from './1776356134880.jpg'
 import lastPhoto5 from './1776356055286.jpg'
 import lastPhoto6 from './1776358827101.jpg'
 import lastPhoto7 from './1776356217059.jpg'
-import lastPhoto8 from './1776340218765.jpg'
-import lastPhoto9 from './1776340037592.jpg'
-import lastPhoto10 from './1776400483619.jpg'
-import lastPhoto11 from './newgrp.jpeg'
-import lastPhoto12 from './chocklate.jpeg'
-import lastPhoto13 from './concert.jpeg'
-import lastPhoto14 from './blackday.jpeg'
-import lastPhoto15 from './3idots.jpeg'
+import lastPhoto8 from './1776425223804.jpg'
+import lastPhoto9 from './1776340218765.jpg'
+import lastPhoto10 from './1776340037592.jpg'
+import lastPhoto11 from './1776400483619.jpg'
+import lastPhoto12 from './newgrp.jpeg'
+import lastPhoto13 from './chocklate.jpeg'
+import lastPhoto14 from './concert.jpeg'
+import lastPhoto15 from './blackday.jpeg'
+import lastPhoto16 from './3idots.jpeg'
 
 import video1 from './Snapchat-1070160169.mp4'
 import video2 from './Snapchat-1454945637.mp4'
@@ -23,6 +24,7 @@ import video5 from './Snapchat-865556087.mp4'
 import video6 from './VID-20260309-WA0013.mp4'
 import video7 from './VN20250917_174152.mp4'
 import video8 from './Snapchat-1655678465.mp4'
+import video9 from './Snapchat-1726119615.mp4'
 
 export default function CollegeMiniWebsite() {
   const revealSection = (id) => {
@@ -179,27 +181,27 @@ export default function CollegeMiniWebsite() {
           <p className="mt-3 text-gray-700 text-sm leading-6">
             It was not just an event. it was a activity that helps us to turn our friendship into family. it was the most happiest 4 days just like an trip.
           </p>
-        </div> 
-        
-      <div>
+        </div>
+
+         <div>
           <img
             src={lastPhoto7}
             alt="College memory 7"
             className="rounded-2xl shadow-xl w-full h-64 object-cover"
           />
           <p className="mt-3 text-gray-700 text-sm leading-6">
-            A day when preet grandfather tech us how real wealth look like.
+            A event that helps us to make new friend like a family.
           </p>
         </div>
-
-        <div>
+        
+      <div>
           <img
             src={lastPhoto8}
             alt="College memory 8"
             className="rounded-2xl shadow-xl w-full h-64 object-cover"
           />
           <p className="mt-3 text-gray-700 text-sm leading-6">
-            The day when pizza meant to tease tithi instead of eating that.
+            A day when preet grandfather tech us how real wealth look like.
           </p>
         </div>
 
@@ -210,29 +212,29 @@ export default function CollegeMiniWebsite() {
             className="rounded-2xl shadow-xl w-full h-64 object-cover"
           />
           <p className="mt-3 text-gray-700 text-sm leading-6">
-            Trip to sarangpur was a fun, that masti in car, the vlog was the best parth of that trip that will remember for the long time.
+            The day when pizza meant to tease tithi instead of eating that.
           </p>
         </div>
 
-         <div>
+        <div>
           <img
             src={lastPhoto10}
             alt="College memory 10"
             className="rounded-2xl shadow-xl w-full h-64 object-cover"
           />
           <p className="mt-3 text-gray-700 text-sm leading-6">
-            Trip to valsad and daman was fabulous specially when vasu said aeee GJ 23 at that moment everyone the way vasu react.
+            Trip to sarangpur was a fun, that masti in car, the vlog was the best parth of that trip that will remember for the long time.
           </p>
         </div>
 
-        <div>
+         <div>
           <img
             src={lastPhoto11}
             alt="College memory 11"
             className="rounded-2xl shadow-xl w-full h-64 object-cover"
           />
           <p className="mt-3 text-gray-700 text-sm leading-6">
-            First college event of us together.
+            Trip to valsad and daman was fabulous specially when vasu said aeee GJ 23 at that moment everyone the way vasu react.
           </p>
         </div>
 
@@ -243,7 +245,7 @@ export default function CollegeMiniWebsite() {
             className="rounded-2xl shadow-xl w-full h-64 object-cover"
           />
           <p className="mt-3 text-gray-700 text-sm leading-6">
-            A time when ketav use to do clean shave🤦‍♂️.
+            First college event of us together.
           </p>
         </div>
 
@@ -254,7 +256,7 @@ export default function CollegeMiniWebsite() {
             className="rounded-2xl shadow-xl w-full h-64 object-cover"
           />
           <p className="mt-3 text-gray-700 text-sm leading-6">
-            The only concert when all of us where there.
+            A time when ketav use to do clean shave🤦‍♂️.
           </p>
         </div>
 
@@ -265,7 +267,7 @@ export default function CollegeMiniWebsite() {
             className="rounded-2xl shadow-xl w-full h-64 object-cover"
           />
           <p className="mt-3 text-gray-700 text-sm leading-6">
-            The day when boys became men in black for the day.
+            The only concert when all of us where there.
           </p>
         </div>
 
@@ -273,6 +275,17 @@ export default function CollegeMiniWebsite() {
           <img
             src={lastPhoto15}
             alt="College memory 15"
+            className="rounded-2xl shadow-xl w-full h-64 object-cover"
+          />
+          <p className="mt-3 text-gray-700 text-sm leading-6">
+            The day when boys became men in black for the day.
+          </p>
+        </div>
+
+        <div>
+          <img
+            src={lastPhoto16}
+            alt="College memory 16"
             className="rounded-2xl shadow-xl w-full h-64 object-cover"
           />
           <p className="mt-3 text-gray-700 text-sm leading-6">
@@ -313,6 +326,11 @@ export default function CollegeMiniWebsite() {
           <video src={video8} controls className="rounded-2xl shadow-xl w-full" />
           <p className="mt-5 text-center text-xl font-semibold text-pink-550">
             "Vidai of tithi from the college😂." 
+        </p>
+          </p>
+          <video src={video9} controls className="rounded-2xl shadow-xl w-full" />
+          <p className="mt-5 text-center text-xl font-semibold text-pink-550">
+            "Samaj party jindaa baad." 
         </p>
 
       </div>
