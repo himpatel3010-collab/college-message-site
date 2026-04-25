@@ -293,8 +293,8 @@ export default function CollegeMiniWebsite() {
 
          <div>
           <img
-            src={lastPhoto16}
-            alt="College memory 16"
+            src={lastPhoto17}
+            alt="College memory 17"
             className="rounded-2xl shadow-xl w-full h-64 object-cover"
           />
           <p className="mt-3 text-gray-700 text-sm leading-6">
@@ -304,7 +304,7 @@ export default function CollegeMiniWebsite() {
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-10">
 
-          <video src={lastvideo1} controls className="rounded-1xl shadow-xl w-full" />
+          <video src={lastvideo1} controls className="rounded-1xl shadow-xl w-full object cover" />
         <p className="mt-5 text-center text-xl font-semibold text-pink-550">
             "A place where satvik became mummy of mihir." 
         </p>
