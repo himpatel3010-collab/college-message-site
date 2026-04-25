@@ -301,7 +301,7 @@ export default function CollegeMiniWebsite() {
           <p className="mt-3 text-gray-700 text-sm leading-6">
             We all hope that even after the post graduation we all stay connect like this only.
           </p>
-        </div>
+        </div> {/* CLOSE image grid */}
 
         <div className="mt-12">
   <h3 className="text-2xl font-semibold text-pink-600 mb-6 text-center">
@@ -422,7 +422,7 @@ export default function CollegeMiniWebsite() {
       </p>
     
     </div> {/* video grid */}
-        
+    </div> {/* video section */} 
 
         
       </div>  
