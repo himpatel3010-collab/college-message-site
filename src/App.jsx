@@ -306,7 +306,7 @@ export default function CollegeMiniWebsite() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-10">
 
           <video src={lastvideo1} controls className="rounded-1xl shadow-xl w-full object cover" />
-        <p className="mt-5 text-center text-xl font-semibold text-pink-550">
+        <p className="mt-5 text-center text-xl font-sm text-pink-550">
             "A place where satvik became mummy of mihir." 
         </p>
           <video src={lastvideo2} controls className="rounded-2xl shadow-xl w-full" />
