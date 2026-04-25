@@ -422,13 +422,13 @@ export default function CollegeMiniWebsite() {
       </p>
     
     </div> {/* video grid */}
-    </div> {/* video section */} 
+</div> {/* video section */}
 
-        
-      </div>  
+<p className="text-4xl mt-6 text-center">
+  Good Byee 🥹💙✨
+</p>
 
-          <p className="text-4xl mt-6"> Good Byee 🥹💙✨</p>
-        </p>
-
-</div> {/* card */}
+</div> {/* main card */}
 </section> {/* final-section */}
+
+</div> {/* root */}
