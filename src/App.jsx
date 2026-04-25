@@ -21,9 +21,8 @@ import lastvideo3 from './Snapchat-814612826.mp4'
 import lastvideo4 from './Snapchat-846536604.mp4'
 import lastvideo5 from './Snapchat-865556087.mp4'
 import lastvideo6 from './VID-20260309-WA0013.mp4'
-import lastvideo7 from './VN20250917_174152.mp4'
-import lastvideo8 from './Snapchat-1655678465.mp4'
-import lastvideo9 from './Snapchat-1726119615.mp4'
+import lastvideo7 from './Snapchat-1655678465.mp4'
+import lastvideo8 from './Snapchat-1726119615.mp4'
 
 export default function CollegeMiniWebsite() {
   const revealSection = (id) => {
@@ -292,6 +291,17 @@ export default function CollegeMiniWebsite() {
           </p>
         </div>
 
+         <div>
+          <img
+            src={lastPhoto16}
+            alt="College memory 16"
+            className="rounded-2xl shadow-xl w-full h-64 object-cover"
+          />
+          <p className="mt-3 text-gray-700 text-sm leading-6">
+            We all hope that even after the post graduation we all stay connect like this only.
+          </p>
+        </div>
+
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-10">
 
           <video src={lastvideo1} controls className="rounded-1xl shadow-xl w-full" />
@@ -317,16 +327,13 @@ export default function CollegeMiniWebsite() {
           <video src={lastvideo6} controls className="rounded-2xl shadow-xl w-full" />
           <p className="mt-5 text-center text-xl font-semibold text-pink-550">
             "The only time when satvik was happy just because her jannudi gone with someone else." 
+        
         </p>
           <video src={lastvideo7} controls className="rounded-2xl shadow-xl w-full" />
           <p className="mt-5 text-center text-xl font-semibold text-pink-550">
-            "A time when mihir though to became an contractor." 
-        </p>
-          <video src={lastvideo8} controls className="rounded-2xl shadow-xl w-full" />
-          <p className="mt-5 text-center text-xl font-semibold text-pink-550">
             "Vidai of tithi from the college😂." 
         </p>
-          <video src={lastvideo9} controls className="rounded-2xl shadow-xl w-full" />
+          <video src={lastvideo8} controls className="rounded-2xl shadow-xl w-full" />
           <p className="mt-5 text-center text-xl font-semibold text-pink-550">
             "Samaj party jindaa baad." 
         </p>
