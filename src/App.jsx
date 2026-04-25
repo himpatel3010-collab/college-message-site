@@ -310,32 +310,32 @@ export default function CollegeMiniWebsite() {
             "A place where satvik became mummy of mihir." 
         </p>
           <video src={lastvideo2} controls className="rounded-2xl shadow-xl w-full" />
-          <p className="mt-5 text-center text-xl font-semibold text-pink-550">
+          <p className="mt-4 text-center text-xl font-sm text-pink-550">
             "A time when tithi became an influencer." 
         </p>
           <video src={lastvideo3} controls className="rounded-2xl shadow-xl w-full" />
-          <p className="mt-5 text-center text-xl font-semibold text-pink-550">
+          <p className="mt-4 text-center text-xl font-sm text-pink-550">
             "A good college days." 
         </p>
           <video src={lastvideo4} controls className="rounded-2xl shadow-xl w-full" />
-          <p className="mt-5 text-center text-xl font-semibold text-pink-550">
+          <p className="mt-4 text-center text-xl font-sm text-pink-550">
             "A time where one of our player got injured so we decided to visit his farm." 
         </p>
           <video src={lastvideo5} controls className="rounded-2xl shadow-xl w-full" />
-          <p className="mt-5 text-center text-xl font-semibold text-pink-550">
+          <p className="mt-4 text-center text-xl font-sm text-pink-550">
             "The time when ketav need to tell all the day story to someone that he like the most." 
         </p>
           <video src={lastvideo6} controls className="rounded-2xl shadow-xl w-full" />
-          <p className="mt-5 text-center text-xl font-semibold text-pink-550">
+          <p className="mt-4 text-center text-xl font-sm text-pink-550">
             "The only time when satvik was happy just because her jannudi gone with someone else." 
         
         </p>
           <video src={lastvideo7} controls className="rounded-2xl shadow-xl w-full" />
-          <p className="mt-5 text-center text-xl font-semibold text-pink-550">
+          <p className="mt-4 text-center text-xl font-sm text-pink-550">
             "Vidai of tithi from the college😂." 
         </p>
           <video src={lastvideo8} controls className="rounded-2xl shadow-xl w-full" />
-          <p className="mt-5 text-center text-xl font-semibold text-pink-550">
+          <p className="mt-4 text-center text-xl font-sm text-pink-550">
             "Samaj party jindaa baad." 
         </p>
 
