@@ -421,7 +421,7 @@ export default function CollegeMiniWebsite() {
         "Samaj party jindaa baad."
       </p>
     
-    </div> > {/* video grid */}
+    </div> {/* video grid */}
         
 
         
