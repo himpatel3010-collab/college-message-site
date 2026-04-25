@@ -303,38 +303,38 @@ export default function CollegeMiniWebsite() {
           </p>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-10">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-8">
 
-          <video src={lastvideo1} controls className="rounded-1xl shadow-xl w-full object cover" />
-        <p className="mt-5 text-center text-xl font-sm text-pink-550">
+          <video src={lastvideo1} controls className="rounded-1xl shadow-xl w-full object-cover" />
+        <p className="mt-4 text-center text-xl font-sm text-pink-550">
             "A place where satvik became mummy of mihir." 
         </p>
-          <video src={lastvideo2} controls className="rounded-2xl shadow-xl w-full" />
+          <video src={lastvideo2} controls className="rounded-2xl shadow-xl w-full object-cover" />
           <p className="mt-4 text-center text-xl font-sm text-pink-550">
             "A time when tithi became an influencer." 
         </p>
-          <video src={lastvideo3} controls className="rounded-2xl shadow-xl w-full" />
+          <video src={lastvideo3} controls className="rounded-2xl shadow-xl w-full object-cover" />
           <p className="mt-4 text-center text-xl font-sm text-pink-550">
             "A good college days." 
         </p>
-          <video src={lastvideo4} controls className="rounded-2xl shadow-xl w-full" />
+          <video src={lastvideo4} controls className="rounded-2xl shadow-xl w-full object-cover" />
           <p className="mt-4 text-center text-xl font-sm text-pink-550">
             "A time where one of our player got injured so we decided to visit his farm." 
         </p>
-          <video src={lastvideo5} controls className="rounded-2xl shadow-xl w-full" />
+          <video src={lastvideo5} controls className="rounded-2xl shadow-xl w-full object-cover" />
           <p className="mt-4 text-center text-xl font-sm text-pink-550">
             "The time when ketav need to tell all the day story to someone that he like the most." 
         </p>
-          <video src={lastvideo6} controls className="rounded-2xl shadow-xl w-full" />
+          <video src={lastvideo6} controls className="rounded-2xl shadow-xl w-full object-cover" />
           <p className="mt-4 text-center text-xl font-sm text-pink-550">
             "The only time when satvik was happy just because her jannudi gone with someone else." 
         
         </p>
-          <video src={lastvideo7} controls className="rounded-2xl shadow-xl w-full" />
+          <video src={lastvideo7} controls className="rounded-2xl shadow-xl w-full object-cover" />
           <p className="mt-4 text-center text-xl font-sm text-pink-550">
             "Vidai of tithi from the college😂." 
         </p>
-          <video src={lastvideo8} controls className="rounded-2xl shadow-xl w-full" />
+          <video src={lastvideo8} controls className="rounded-2xl shadow-xl w-full object-cover" />
           <p className="mt-4 text-center text-xl font-sm text-pink-550">
             "Samaj party jindaa baad." 
         </p>
