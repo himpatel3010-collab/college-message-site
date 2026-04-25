@@ -429,6 +429,6 @@ export default function CollegeMiniWebsite() {
 </p>
 
 </div> {/* main card */}
-</section> {/* final-section */}
+
 
 </div> {/* root */}
