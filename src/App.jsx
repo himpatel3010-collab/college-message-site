@@ -428,8 +428,9 @@ export default function CollegeMiniWebsite() {
       </div>  
 
           <p className="text-4xl mt-6"> Good Byee 🥹💙✨</p>
-        </div>
-      </section>
-    </div>
-  )
-}
+        </p>
+
+</div> {/* main container inside section */}
+</section> {/* final-section */}
+
+</div> {/* root div */}
